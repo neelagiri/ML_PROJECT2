@@ -1,0 +1,154 @@
+Animal :
+
+image and Text:35_shotopir_part1.jpg
+[[ 84. 174.  98.]
+ [ 90. 112. 135.]
+ [ 60.  87. 131.]]
+Total Iteration: 6
+Final Conjugate Gradient [ 0.69181523 -0.11297425 -0.3378325 ]
+Time took to process 0.0005528926849365234
+-----------------------------------------------------------
+image and Text:35_shotopir_part5.jpg
+[[139. 139. 143.]
+ [ 90. 142.  19.]
+ [ 56.  29.  77.]]
+Total Iteration: 6
+Final Conjugate Gradient [-3545.34061627  1466.12136815  6534.99695354]
+Time took to process 0.0005829334259033203
+-----------------------------------------------------------
+image and Text:34_animalworld.jpg
+[[ 83. 140.  76.]
+ [177. 173.  54.]
+ [138. 107. 114.]]
+Total Iteration: 6
+Final Conjugate Gradient [ 0.00292094  0.01219091 -0.01438833]
+Time took to process 0.0005400180816650391
+-----------------------------------------------------------
+image and Text:35_shotopir.jpg
+[[171.  63. 143.]
+ [150. 147. 104.]
+ [181. 186. 156.]]
+Total Iteration: 6
+Final Conjugate Gradient [-0.56271006 -2.44062596  1.87415689]
+Time took to process 0.0006527900695800781
+-----------------------------------------------------------
+image and Text:35_shotopir_part6.jpg
+[[144.  16.  41.]
+ [217. 207. 218.]
+ [115. 211. 185.]]
+Total Iteration: 6
+Final Conjugate Gradient [-0.46067384 -0.2863849   0.93062089]
+Time took to process 0.0006008148193359375
+-----------------------------------------------------------
+image and Text:33_binladen11september.jpg
+[[ 95. 155.  53.]
+ [ 86.  99.  88.]
+ [ 69. 133.  57.]]
+Total Iteration: 6
+Final Conjugate Gradient [ 0.39533064 -0.19201393 -0.29353078]
+Time took to process 0.0005180835723876953
+-----------------------------------------------------------
+image and Text:32_chandimangal_part1.jpg
+[[ 30. 203. 182.]
+ [241. 126.  75.]
+ [130.  86. 155.]]
+Total Iteration: 6
+Final Conjugate Gradient [-0.07505507  0.0368115  -0.02162762]
+Time took to process 0.0005331039428710938
+-----------------------------------------------------------
+image and Text:34_animalworld_part4.jpg
+[[ 83. 140.  76.]
+ [177. 173.  54.]
+ [138. 107. 114.]]
+Total Iteration: 6
+Final Conjugate Gradient [ 0.00292094  0.01219091 -0.01438833]
+Time took to process 0.0005939006805419922
+-----------------------------------------------------------
+image and Text:34_animalworld_part1.jpg
+[[62. 89. 62.]
+ [83. 84. 96.]
+ [91. 95. 77.]]
+Total Iteration: 6
+Final Conjugate Gradient [-0.77340278  0.29229277  0.64269915]
+Time took to process 0.0008158683776855469
+-----------------------------------------------------------
+image and Text:33_binladen11september_part5.jpg
+[[ 61. 134. 119.]
+ [ 76.  85.  60.]
+ [107. 247. 171.]]
+Total Iteration: 6
+Final Conjugate Gradient [-1.46989803  0.66468414 -0.09290154]
+Time took to process 0.0003647804260253906
+-----------------------------------------------------------
+image and Text:34_animalworld_part2.jpg
+[[ 37.  90.  46.]
+ [ 47.  74. 153.]
+ [ 71. 149.  87.]]
+Total Iteration: 6
+Final Conjugate Gradient [ 20.15407346  -0.91555316 -13.33054164]
+Time took to process 0.0004189014434814453
+-----------------------------------------------------------
+image and Text:34_animalworld_part3.jpg
+[[ 92. 113. 121.]
+ [129. 171.  93.]
+ [130. 131. 124.]]
+Total Iteration: 6
+Final Conjugate Gradient [ 0.00343687 -0.00522006  0.02280757]
+Time took to process 0.000614166259765625
+-----------------------------------------------------------
+image and Text:31_manasamangal_part2.jpg
+[[105.  52.  21.]
+ [ 16. 241.  13.]
+ [161. 130. 139.]]
+Total Iteration: 6
+Final Conjugate Gradient [-1.96876875 -0.18539566  1.93782559]
+Time took to process 0.0006127357482910156
+-----------------------------------------------------------
+image and Text:31_manasamangal.jpg
+[[ 68.  69.  30.]
+ [112. 157. 192.]
+ [201.  37. 115.]]
+Total Iteration: 6
+Final Conjugate Gradient [  0.43028146   9.53783458 -10.56558691]
+Time took to process 0.00045490264892578125
+-----------------------------------------------------------
+image and Text:32_chandimangal.jpg
+[[ 29. 147. 118.]
+ [ 35.  26.  22.]
+ [215. 152. 113.]]
+Total Iteration: 6
+Final Conjugate Gradient [  -6.32282315 -129.67618492   26.58206352]
+Time took to process 0.0005550384521484375
+-----------------------------------------------------------
+image and Text:31_manasamangal_part1.jpg
+[[191.  61.  95.]
+ [170. 136.  85.]
+ [ 43.  68.  42.]]
+Total Iteration: 6
+Final Conjugate Gradient [-0.2535426   0.45787551  0.24681834]
+Time took to process 0.0006053447723388672
+-----------------------------------------------------------
+image and Text:31_manasamangal_part5.jpg
+[[128.  85.  19.]
+ [132.  40.  47.]
+ [215. 127.  52.]]
+Total Iteration: 6
+Final Conjugate Gradient [ 0.42490742 -0.40225763 -0.67685484]
+Time took to process 0.0005729198455810547
+-----------------------------------------------------------
+image and Text:31_manasamangal_part4.jpg
+[[ 72.  24.  63.]
+ [182.  68. 202.]
+ [191.  85.  64.]]
+Total Iteration: 6
+Final Conjugate Gradient [-1.18189192 -0.39913373  0.05766981]
+Time took to process 0.0004050731658935547
+-----------------------------------------------------------
+image and Text:31_manasamangal_part6.jpg
+[[150. 111. 154.]
+ [113. 187. 155.]
+ [ 50.  65.  54.]]
+Total Iteration: 6
+Final Conjugate Gradient [-0.75904983  1.20530385 -1.68812225]
+Time took to process 0.0006840229034423828
+-----------------------------------------------------------
