@@ -34,7 +34,7 @@ conjugateGrad<-function(A, b, x=None)
 
 # training dataset for animal which is converted to martix (image converted to grayscale)
 
-datafram_animal_train <- "/Users/chayan/Desktop/Project/Final Data sheets/Animals/Images/ImageAnimalData"
+datafram_animal_train <- "/Users/vamsi/Desktop/Project/Final Data sheets/Animals/Images/ImageAnimalData"
 datafram_animal_train_read <- read.csv(datafram_animal_train)
 
 retval <- subset(data, "Image:")
